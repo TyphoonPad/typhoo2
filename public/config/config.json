@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEDBfB84CA3a108d416d10e90cF1aEfF387457811",
+  "SCAN_LINK": "https://ftmscan.com/address/0xedbfb84ca3a108d416d10e90cf1aeff387457811",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "FantomZuki",
+  "SYMBOL": "FZuki",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/discover/items?contracts=15568&network=250",
+  "SHOW_BACKGROUND": true
+}
